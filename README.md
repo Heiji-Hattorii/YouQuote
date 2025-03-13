@@ -1,1 +1,2 @@
 # YouQuote
+YouQuote est une API qui permet de gérer des citations. Elle permet aux utilisateurs de créer, lire, mettre à jour, et supprimer des citations, ainsi que d'obtenir des citations aléatoires et de filtrer les citations en fonction de la longueur. De plus, l'API suit la popularité des citations les plus demandées et offre une fonctionnalité bonus de génération d'images pour les citations populaires. L'authentification est une fonctionnalité bonus qui permet aux utilisateurs de gérer leurs propres citations de manière sécurisée.
